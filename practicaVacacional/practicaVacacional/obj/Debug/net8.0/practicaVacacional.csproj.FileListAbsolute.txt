@@ -1,0 +1,14 @@
+C:\Users\Universidad\source\repos\practicaVacacional\practicaVacacional\bin\Debug\net8.0\practicaVacacional.exe
+C:\Users\Universidad\source\repos\practicaVacacional\practicaVacacional\bin\Debug\net8.0\practicaVacacional.deps.json
+C:\Users\Universidad\source\repos\practicaVacacional\practicaVacacional\bin\Debug\net8.0\practicaVacacional.runtimeconfig.json
+C:\Users\Universidad\source\repos\practicaVacacional\practicaVacacional\bin\Debug\net8.0\practicaVacacional.dll
+C:\Users\Universidad\source\repos\practicaVacacional\practicaVacacional\bin\Debug\net8.0\practicaVacacional.pdb
+C:\Users\Universidad\source\repos\practicaVacacional\practicaVacacional\obj\Debug\net8.0\practicaVacacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Universidad\source\repos\practicaVacacional\practicaVacacional\obj\Debug\net8.0\practicaVacacional.AssemblyInfoInputs.cache
+C:\Users\Universidad\source\repos\practicaVacacional\practicaVacacional\obj\Debug\net8.0\practicaVacacional.AssemblyInfo.cs
+C:\Users\Universidad\source\repos\practicaVacacional\practicaVacacional\obj\Debug\net8.0\practicaVacacional.csproj.CoreCompileInputs.cache
+C:\Users\Universidad\source\repos\practicaVacacional\practicaVacacional\obj\Debug\net8.0\practicaVacacional.dll
+C:\Users\Universidad\source\repos\practicaVacacional\practicaVacacional\obj\Debug\net8.0\refint\practicaVacacional.dll
+C:\Users\Universidad\source\repos\practicaVacacional\practicaVacacional\obj\Debug\net8.0\practicaVacacional.pdb
+C:\Users\Universidad\source\repos\practicaVacacional\practicaVacacional\obj\Debug\net8.0\practicaVacacional.genruntimeconfig.cache
+C:\Users\Universidad\source\repos\practicaVacacional\practicaVacacional\obj\Debug\net8.0\ref\practicaVacacional.dll

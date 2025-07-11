@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "practicaVacacional/1.0.0": {
+        "runtime": {
+          "practicaVacacional.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practicaVacacional/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
