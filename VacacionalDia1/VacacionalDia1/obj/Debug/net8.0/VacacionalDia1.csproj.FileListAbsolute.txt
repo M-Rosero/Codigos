@@ -1,0 +1,14 @@
+C:\Users\Universidad\source\repos\VacacionalDia1\VacacionalDia1\bin\Debug\net8.0\VacacionalDia1.exe
+C:\Users\Universidad\source\repos\VacacionalDia1\VacacionalDia1\bin\Debug\net8.0\VacacionalDia1.deps.json
+C:\Users\Universidad\source\repos\VacacionalDia1\VacacionalDia1\bin\Debug\net8.0\VacacionalDia1.runtimeconfig.json
+C:\Users\Universidad\source\repos\VacacionalDia1\VacacionalDia1\bin\Debug\net8.0\VacacionalDia1.dll
+C:\Users\Universidad\source\repos\VacacionalDia1\VacacionalDia1\bin\Debug\net8.0\VacacionalDia1.pdb
+C:\Users\Universidad\source\repos\VacacionalDia1\VacacionalDia1\obj\Debug\net8.0\VacacionalDia1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Universidad\source\repos\VacacionalDia1\VacacionalDia1\obj\Debug\net8.0\VacacionalDia1.AssemblyInfoInputs.cache
+C:\Users\Universidad\source\repos\VacacionalDia1\VacacionalDia1\obj\Debug\net8.0\VacacionalDia1.AssemblyInfo.cs
+C:\Users\Universidad\source\repos\VacacionalDia1\VacacionalDia1\obj\Debug\net8.0\VacacionalDia1.csproj.CoreCompileInputs.cache
+C:\Users\Universidad\source\repos\VacacionalDia1\VacacionalDia1\obj\Debug\net8.0\VacacionalDia1.dll
+C:\Users\Universidad\source\repos\VacacionalDia1\VacacionalDia1\obj\Debug\net8.0\refint\VacacionalDia1.dll
+C:\Users\Universidad\source\repos\VacacionalDia1\VacacionalDia1\obj\Debug\net8.0\VacacionalDia1.pdb
+C:\Users\Universidad\source\repos\VacacionalDia1\VacacionalDia1\obj\Debug\net8.0\VacacionalDia1.genruntimeconfig.cache
+C:\Users\Universidad\source\repos\VacacionalDia1\VacacionalDia1\obj\Debug\net8.0\ref\VacacionalDia1.dll

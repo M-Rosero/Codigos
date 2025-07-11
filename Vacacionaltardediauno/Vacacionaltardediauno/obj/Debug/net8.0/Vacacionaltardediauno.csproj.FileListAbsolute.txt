@@ -1,0 +1,14 @@
+C:\Users\Universidad\source\repos\Vacacionaltardediauno\Vacacionaltardediauno\bin\Debug\net8.0\Vacacionaltardediauno.exe
+C:\Users\Universidad\source\repos\Vacacionaltardediauno\Vacacionaltardediauno\bin\Debug\net8.0\Vacacionaltardediauno.deps.json
+C:\Users\Universidad\source\repos\Vacacionaltardediauno\Vacacionaltardediauno\bin\Debug\net8.0\Vacacionaltardediauno.runtimeconfig.json
+C:\Users\Universidad\source\repos\Vacacionaltardediauno\Vacacionaltardediauno\bin\Debug\net8.0\Vacacionaltardediauno.dll
+C:\Users\Universidad\source\repos\Vacacionaltardediauno\Vacacionaltardediauno\bin\Debug\net8.0\Vacacionaltardediauno.pdb
+C:\Users\Universidad\source\repos\Vacacionaltardediauno\Vacacionaltardediauno\obj\Debug\net8.0\Vacacionaltardediauno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Universidad\source\repos\Vacacionaltardediauno\Vacacionaltardediauno\obj\Debug\net8.0\Vacacionaltardediauno.AssemblyInfoInputs.cache
+C:\Users\Universidad\source\repos\Vacacionaltardediauno\Vacacionaltardediauno\obj\Debug\net8.0\Vacacionaltardediauno.AssemblyInfo.cs
+C:\Users\Universidad\source\repos\Vacacionaltardediauno\Vacacionaltardediauno\obj\Debug\net8.0\Vacacionaltardediauno.csproj.CoreCompileInputs.cache
+C:\Users\Universidad\source\repos\Vacacionaltardediauno\Vacacionaltardediauno\obj\Debug\net8.0\Vacacionaltardediauno.dll
+C:\Users\Universidad\source\repos\Vacacionaltardediauno\Vacacionaltardediauno\obj\Debug\net8.0\refint\Vacacionaltardediauno.dll
+C:\Users\Universidad\source\repos\Vacacionaltardediauno\Vacacionaltardediauno\obj\Debug\net8.0\Vacacionaltardediauno.pdb
+C:\Users\Universidad\source\repos\Vacacionaltardediauno\Vacacionaltardediauno\obj\Debug\net8.0\Vacacionaltardediauno.genruntimeconfig.cache
+C:\Users\Universidad\source\repos\Vacacionaltardediauno\Vacacionaltardediauno\obj\Debug\net8.0\ref\Vacacionaltardediauno.dll
