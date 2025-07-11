@@ -1,0 +1,14 @@
+C:\Users\Universidad\source\repos\primerParcial\primerParcial\bin\Debug\net8.0\primerParcial.exe
+C:\Users\Universidad\source\repos\primerParcial\primerParcial\bin\Debug\net8.0\primerParcial.deps.json
+C:\Users\Universidad\source\repos\primerParcial\primerParcial\bin\Debug\net8.0\primerParcial.runtimeconfig.json
+C:\Users\Universidad\source\repos\primerParcial\primerParcial\bin\Debug\net8.0\primerParcial.dll
+C:\Users\Universidad\source\repos\primerParcial\primerParcial\bin\Debug\net8.0\primerParcial.pdb
+C:\Users\Universidad\source\repos\primerParcial\primerParcial\obj\Debug\net8.0\primerParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Universidad\source\repos\primerParcial\primerParcial\obj\Debug\net8.0\primerParcial.AssemblyInfoInputs.cache
+C:\Users\Universidad\source\repos\primerParcial\primerParcial\obj\Debug\net8.0\primerParcial.AssemblyInfo.cs
+C:\Users\Universidad\source\repos\primerParcial\primerParcial\obj\Debug\net8.0\primerParcial.csproj.CoreCompileInputs.cache
+C:\Users\Universidad\source\repos\primerParcial\primerParcial\obj\Debug\net8.0\primerParcial.dll
+C:\Users\Universidad\source\repos\primerParcial\primerParcial\obj\Debug\net8.0\refint\primerParcial.dll
+C:\Users\Universidad\source\repos\primerParcial\primerParcial\obj\Debug\net8.0\primerParcial.pdb
+C:\Users\Universidad\source\repos\primerParcial\primerParcial\obj\Debug\net8.0\primerParcial.genruntimeconfig.cache
+C:\Users\Universidad\source\repos\primerParcial\primerParcial\obj\Debug\net8.0\ref\primerParcial.dll
